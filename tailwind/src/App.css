@@ -1,0 +1,16 @@
+.bg-light-background {
+  background-color: #f5f5f5;
+}
+
+.text-light-text {
+  color: #333;
+}
+
+/* Dark Mode Styles */
+.dark .bg-dark-background {
+  background-color: #333;
+}
+
+.dark .text-dark-text {
+  color: #fff;
+}
